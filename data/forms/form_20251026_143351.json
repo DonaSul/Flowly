@@ -1,0 +1,12 @@
+{
+  "form_id": "form_20251026_143351",
+  "goal": "Gather feedback about a product",
+  "questions": [
+    "Where they discovered the product",
+    "Why they decided to try it",
+    "How satisfied they are",
+    "What they’d improve",
+    "Likelihood to recommend",
+    "Final feedback or suggestions"
+  ]
+}
