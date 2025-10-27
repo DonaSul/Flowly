@@ -1,4 +1,9 @@
-﻿# Flowly 💬  
+<p align="center">
+  <img src="https://github.com/DonaSul/Flowly/blob/main/Flowly%20demo%20GIF.gif?raw=true" width="800" alt="Flowly demo">
+</p>
+
+ 
+ # Flowly 💬  
 **Transforming Forms into Conversations**
 
 Flowly reimagines how we collect information online.  
@@ -49,5 +54,6 @@ git clone https://github.com/DonaSul/Flowly.git
 cd Flowly
 pip install -r requirements.txt
 streamlit run app.py
+
 
 
